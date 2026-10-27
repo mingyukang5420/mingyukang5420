@@ -4,7 +4,7 @@
 
 **수학 · 금융공학을 기반으로 AI/ML과 데이터 중심 서비스를 만드는 개발자입니다.**
 
-<a href="mailto:mingyukang@kakao.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/mingyukang5420"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://hits.sh/github.com/mingyukang5420.svg?style=flat-square&label=visitors&color=555555"/>
 
@@ -15,7 +15,7 @@
 ## About
 
 - 수학 · 금융공학 복수전공
-- SSAFY 14기 / SKALA 4기
+- SSAFY 14기 / SKALA
 - 관심 분야: 강화학습 기반 이상거래 탐지(FDS), AI 에이전트, 금융 데이터 서비스
 
 ---
@@ -55,14 +55,13 @@
 
 ## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mingyukang5420&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyukang5420&layout=compact&hide_border=true&theme=transparent"/>
-
-<img src="https://streak-stats.demolab.com?user=mingyukang5420&hide_border=true&theme=transparent"/>
-
-</div>
+<table>
+  <tr>
+    <td width="36%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=mingyukang5420&show_icons=true&hide_border=true&theme=transparent"/></td>
+    <td width="28%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyukang5420&layout=compact&hide_border=true&theme=transparent"/></td>
+    <td width="36%"><img width="100%" src="https://streak-stats.demolab.com?user=mingyukang5420&hide_border=true&theme=transparent"/></td>
+  </tr>
+</table>
 
 ---
 
