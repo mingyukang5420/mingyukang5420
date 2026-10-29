@@ -37,5 +37,5 @@
 | Backend | Java, Spring Boot, Python, FastAPI, Django REST Framework |
 | Data / DB | PostgreSQL, PostGIS, MySQL, Redis, pandas |
 | AI | PyTorch, TensorFlow, HuggingFace Transformers, LangGraph |
-| Infra / Tools | Docker, GitHub Actions, RabbitMQ, AWS EC2, Git |
+| Infra / Tools | Docker, GitHub Actions, RabbitMQ, AWS EC2, Git, Jira |
 | Frontend | React, TypeScript |
