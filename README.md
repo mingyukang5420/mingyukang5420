@@ -2,7 +2,7 @@
 
 # Hi, I'm Mingyu Kang
 
-**AI 기능이 서비스 안에서 안정적으로 동작하도록 설계하는 백엔드 개발자입니다.**
+**AI 기능이 서비스 안에서 안정적으로 동작하도록 설계하는 개발자입니다.**
 
 <a href="mailto:mingyukang@kakao.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
